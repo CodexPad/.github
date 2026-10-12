@@ -1,12 +1,10 @@
-## Hi there 👋
+# Welcome to CodexPad Organization
 
-<!--
+This is the central entry point for the CodexPad organization. Here you will find documentation, libraries, and examples maintained by our team.
 
-**Here are some ideas to get you started:**
+## 🚀 Getting Started
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To begin exploring our hardware ecosystem, please refer to the primary product documentation below:
+
+- [CodexPad-C10](../../../codex_pad_c10/blob/main/README.md#codexpad-c10)
+- [CodexPad-S10](../../../codex_pad_s10/blob/main/README.md#codexpad-s10)
