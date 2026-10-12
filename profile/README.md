@@ -6,5 +6,5 @@ This is the central entry point for the CodexPad organization. Here you will fin
 
 To begin exploring our hardware ecosystem, please refer to the primary product documentation below:
 
-- [CodexPad-C10](../../../codex_pad_c10/blob/main/README.md#codexpad-c10)
-- [CodexPad-S10](../../../codex_pad_s10/blob/main/README.md#codexpad-s10)
+- [CodexPad-C10](https://github.com/CodexPad/codex_pad_c10#codexpad-c10)
+- [CodexPad-S10](https://github.com/CodexPad/codex_pad_s10#codexpad-s10)
